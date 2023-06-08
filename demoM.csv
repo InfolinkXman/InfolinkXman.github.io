@@ -1,0 +1,5 @@
+User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
+https://projectademo.github.io/demo/demo_ua.txt,Y,聯騰資訊,www.infolink.com.tw,4,3~4,3~4,3~4,http://10.100.66.27:20080/infolink-pages.txt,11~22,11,N,N
+https://projectademo.github.io/demo/demo_ua.txt,B,宇創國際有限公司,ramscend.com.tw,4,3~4,3~4,3~4,http://10.100.66.27:20080/ramscend-pages.txt,11~22,11,N,N
+https://projectademo.github.io/demo/demo_ua.txt,G,墊腳石,www.steppingstone.com.tw/,4,3~4,3~4,3~4,http://10.100.66.27:20080/tcsb-pages.txt,11~22,11,N,N
+https://projectademo.github.io/demo/demo_ua.txt,B,西屋服務站,address.westinghouse-service-center.com.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-address.westinghouse-service-centerC-tw.txt,11~22,11,N,N
